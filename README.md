@@ -1,4 +1,6 @@
 # SS-ReTM 
 
-This file is the supplementary audio files for the paper "BLIND SEPARATION OF MULTIPLE SPEAKERS IN NOISY REVERBERANT
-ENVIRONMENTS USING RELATIVE TRANSFER MATRIX OF MULTIPLE MICROPHONES" submitted to International Workshop on Acoustic Signal Enhancement 2024.
+This repository contains the supplementary audio files of the simulation study for the paper "BLIND SEPARATION OF MULTIPLE SPEAKERS IN NOISY REVERBERANT
+ENVIRONMENTS USING RELATIVE TRANSFER MATRIX OF MULTIPLE MICROPHONES" submitted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
+
+Experimental recordings from a real room are uploaded to Zendo (https://zenodo.org/records/13266560).
