@@ -1,7 +1,6 @@
 # SS-ReTM 
 
-This repository contains the supplementary audio files of the simulation study for the paper "Relative Transfer Matrix for Low SNR Speech Separation from Noisy Sources in
-Reverberant Rooms" submitted to The Journal of the Acoustical Society of America.
+This repository contains the supplementary audio files of the simulation study for the paper "Multiple speaker separation in reverberant rooms under low SNR conditions using the relative transfer matrix" submitted to The Journal of the Acoustical Society of America.
 
 # Simulation Study
 
