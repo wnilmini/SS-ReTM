@@ -1,1 +1,1 @@
-Experimental recordings from a real room are uploaded to Zenodo (https://zenodo.org/records/15644166). This folder contains the mixture and separated audio files from SVoice (https://github.com/facebookresearch/svoice) using the available pre-trained model. 
+Experimental recordings from a real room are uploaded to Zenodo (https://zenodo.org/records/15644166). This folder contains separated audio files from SVoice (https://github.com/facebookresearch/svoice) for the same mixture recording, using the available pre-trained model. 
