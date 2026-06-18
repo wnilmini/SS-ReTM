@@ -1,6 +1,6 @@
 # SS-ReTM 
 
-This repository contains the supplementary audio files of the simulation study for the paper "Multiple speaker separation in reverberant rooms under low SNR conditions using the relative transfer matrix" submitted to Applied Acoustics.
+This repository contains the supplementary audio files of the simulation study for the paper "Multiple speaker separation in reverberant rooms under low SNR conditions using the relative transfer matrix" accepted to Applied Acoustics, Jun. 2026.
 
 # Simulation Study
 
